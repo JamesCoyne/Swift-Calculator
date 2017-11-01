@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "7f846c7a03054272a16175bce5c95d15"
+build_time: [562862023, 12872000]
+inputs:
+  "/Users/jamescoyne/Documents/xcode/Calculator/Calculator/ViewController.swift": [529173372, 0]
+  "/Users/jamescoyne/Documents/xcode/Calculator/Calculator/AppDelegate.swift": [528917461, 0]
